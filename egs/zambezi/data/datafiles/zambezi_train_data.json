@@ -1,0 +1,812 @@
+{
+    "data": [
+        {
+            "wav": "data/wav/opp_335_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_338_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_341_ru3.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_343_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_350_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_363_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_368_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_369_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_381_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_381_ru1.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_395_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_395_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_401_ru1.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_401_ru2.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_403_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_403_ru1.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_403_ru2.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_403_ru3.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_404_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_408_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_412_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_413_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_413_ru1.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_413_ru2.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_414_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_416_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_416_ru2.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_416_ru3.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_417_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_417_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_420_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_431_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_432_ru1.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_432_ru2.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_432_rua.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_432_rub.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_439_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_439_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_442_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_445_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_445_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_450_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_452_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_452_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_452_ru2.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_456_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_457_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_457_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_457_ru2.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_466_ru1.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_473_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_473_ru1.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_486_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_491_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_493_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_494_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_498_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_498_ru2.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_498_ru3.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_499_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_499_ru1.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_499_ru3.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_504_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_504_ru1.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_504_ru2.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_508_ru2.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_509_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_509_ru6.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_511_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_511_ru1.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_514_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_515_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_517_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_518_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_519_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_527_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_528_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_530_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_530_ru2.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_531_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_540_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_542_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_542_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_543_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_544_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_545_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_553_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_555_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_556_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_557_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_558_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_558_ru2.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_559_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_560_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_560_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_566_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_571_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_572_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_582_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_582_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_582_ru2.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_582_ru3.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_582_ru4.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_582_ru5.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_582_ru6.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_584_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_584_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_598_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_598_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_600_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_602_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_602_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_606_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_608_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_608_ru3.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_608_ru4.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_608_ru5.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_616_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_616_ru3.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_618_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_620_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_622_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_623_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_624_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_625_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_627_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_634_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_637_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_639_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_641_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_647_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_649_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_652_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_653_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_654_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_661_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_662_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_664_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_667_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_688_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_688_ru1.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_692_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_694_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_697_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_698_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_699_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_700_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_701_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_705_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_707_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_708_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_710_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_710_ru2.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_712_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_716_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_717_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_717_ru2.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_727_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_728_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_739_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_743_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_744_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_746_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_746_ru2.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_748_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_748_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_749_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_750_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_750_ru1.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_753_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_754_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_755_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_755_ru1.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_755_ru2.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_758_ru3a.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_758_ru4.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_759_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_759_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_762_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_763_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_763_ru2.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_768_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_769_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_770_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_771_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_774_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_789_ru1.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_789_ru2.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_793_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_800_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_801_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_806_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_807_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_818_ru.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_819_ru.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_824_ru1.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_824_ru3.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_824_ru4.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_824_ru5.wav",
+            "labels": "ad/sa"
+        },
+        {
+            "wav": "data/wav/opp_830_ru1.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_830_ru2.wav",
+            "labels": "inf/juv"
+        },
+        {
+            "wav": "data/wav/opp_830_ru3.wav",
+            "labels": "inf/juv"
+        }
+    ]
+}
